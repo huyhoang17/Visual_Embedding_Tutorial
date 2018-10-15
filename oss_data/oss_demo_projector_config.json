@@ -1,0 +1,21 @@
+{
+    "embeddings": [
+        {
+            "tensorPath": "oss_data/MNIST_tensor.bytes",
+            "tensorShape": [
+                1000,
+                128
+            ],
+            "metadataPath": "oss_data/MNIST_labels.tsv",
+            "tensorName": "MNIST2Vec",
+            "sprite": {
+                "imagePath": "oss_data/MNIST_sprites.png",
+                "singleImageDim": [
+                    28,
+                    28
+                ]
+            }
+        }
+    ],
+    "modelCheckpointPath": "Visual Vector Embedding"
+}
