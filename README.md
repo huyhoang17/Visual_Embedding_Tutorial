@@ -14,3 +14,10 @@ python3 -m http.server
 ```
 
 Access localhost server: 127.0.0.1:8000
+
+Reference
+---
+
+- https://github.com/tensorflow/embedding-projector-standalone
+
+- https://projector.tensorflow.org
