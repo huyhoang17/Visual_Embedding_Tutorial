@@ -37,4 +37,4 @@ if __name__ == '__main__':
     with open('../models/X_train_10000.pkl', 'rb') as f:
         X_train = pickle.load(f)
     simg = images_to_sprite(X_train)
-    scipy.misc.imsave('MNIST_sprites.png', np.squeeze(simg))
+    scipy.misc.imsave('../oss_data/MNIST_sprites.png', np.squeeze(simg))
