@@ -2,6 +2,8 @@
 
 MNIST Embedding Visualisation using Tensorflow Projector: https://huyhoang17.github.io/Visual_Embedding_Tutorial/
 
+Link blog (VNI): https://viblo.asia/p/data-visualization-voi-thuat-toan-t-sne-su-dung-tensorflow-projector-924lJAAzZPM
+
 ![Imgur](https://i.imgur.com/D1MgtL9.png)
 
 Command
